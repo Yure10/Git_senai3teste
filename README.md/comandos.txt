@@ -1,7 +1,7 @@
-1 git init
-2 git status
-3 git add
-4 git commit -m 
-5 git remote add origin
-6 git remote -v
-7 git branch -M main
+1-git init
+2-git status
+3-git add
+4-git commit -m 
+5-git remote add origin
+6-git remote -v
+7-git branch -M main
